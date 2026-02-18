@@ -13,3 +13,4 @@ Use this template:
 
 # Contributors
 
+[Krithikaa](https://github.com/KrithikaaSivakumar)
