@@ -12,6 +12,6 @@ Use this template:
 ```
 
 # Contributors
-```
+
 [Pranay Vinod](https://github.com/Pranay-vinod07)
-```
+
